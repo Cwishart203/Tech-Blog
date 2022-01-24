@@ -29,7 +29,7 @@
     DB_PW=*Input your MySQL Password*
 
   ## Usage
-  Open in terminal, then type "npm start"
+  Open in terminal, make sure you have an instance of MySQL open and logged in, then type "npm start". Then open http://localhost:3001/ in your browser.
 
   ## Deployment
   https://cwish-tech-blog.herokuapp.com/
