@@ -32,7 +32,7 @@
   Open in terminal, then type "npm start"
 
   ## Deployment
-  
+  https://cwish-tech-blog.herokuapp.com/
 
   ## Tests
   N/A
